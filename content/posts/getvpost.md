@@ -1,7 +1,7 @@
 ---
 title: "this is my GET vs. POST blog post"
 date: 2021-02-3T23:04:08-06:00
-draft: true
+draft: false
 tags: ["http", "requests", "response", "api"]
 categories: ["web development", "nodejs", "express"]
 ---
