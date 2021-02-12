@@ -43,7 +43,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "A Blog"
+    description: "A README.md of my journey to become a developer."
     author: Collin Holmquist
     # author: ["Me", "You"] # multiple authors
 

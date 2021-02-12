@@ -7,4 +7,4 @@ summary: "my projects"
 
 ### Projects I've created
 
-- [ Dad Joke Repo](dad-joke-wednesday.herokuapp.com)
+- :man: [Dad Joke Repo](https://dad-joke-wednesday.herokuapp.com)
