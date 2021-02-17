@@ -12,7 +12,7 @@ buildExpired: false
 # googleAnalytics: UA-123-45
 
 minify:
-    disableXML: true
+    disableXML: false
     # minifyOutput: true
 
 languages:
@@ -70,7 +70,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Blog"
+        Title: "A README.md of my journey to become a developer."
         Content: >  
           - 👨🏼‍💻 computer science teacher  
 
